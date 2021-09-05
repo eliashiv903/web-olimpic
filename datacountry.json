@@ -1,0 +1,57 @@
+[{
+    "year": "1990",
+    "city": "Athens",
+    "men": 1127,
+    "women": 907,
+    "total": 793,
+    "professions": 2827
+  },
+  {
+    "year": "1896",
+    "city": "Paris",
+    "men": 245,
+    "women": 0,
+    "total": 245,
+    "professions": 43
+  },
+  {
+    "year": "1900",
+    "city": "Saint",
+    "men": 1206,
+    "women": 19,
+    "total": 1225,
+    "professions": 87
+  },
+  {
+    "year": "1904",
+    "city": "Lewis",
+    "men": 681,
+    "women": 6,
+    "total": 687,
+    "professions": 94
+  },
+  {
+    "year": "1908",
+    "city": "London",
+    "men": 877,
+    "women": 7,
+    "total": 884,
+    "professions": 78
+  },
+  {
+    "year": "1912",
+    "city": "Stockholm",
+    "men": 2490,
+    "women": 57,
+    "total": 2547,
+    "professions": 102
+  },
+  {
+    "year": "1920",
+    "city": "Antwerp",
+    "men": 2591,
+    "women": 78,
+    "total": 2669,
+    "professions": 154
+  }]
+  
